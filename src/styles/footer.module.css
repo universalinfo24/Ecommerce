@@ -1,0 +1,12 @@
+
+.footer{
+    height: 30vh;
+    background-color: black;
+    display: flex;
+    align-items: center;
+    /* justify-content: space-around; */
+    width: 100vw;
+}
+.logo{
+    width: 6rem;
+}
